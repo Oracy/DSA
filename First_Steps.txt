@@ -1,0 +1,10 @@
+Problema de negócio?
+Quais sao suas fontes de dados?
+Compreender os dados listados.
+Os dados possuem cabeçalho?
+Voce ja tem o nome para cada uma das colunas?
+O arquivo possui algum tipo de comentario?
+Qual o delimitador das colunas?
+Os dados estao entre aspas simples, ou aspas duplas?
+
+Verificar se a linha do histograma esta simetrica ou assimetrica direita/esquerda.
